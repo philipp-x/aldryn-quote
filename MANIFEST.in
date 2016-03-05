@@ -1,0 +1,6 @@
+include README.md
+include LICENSE.txt
+recursive-include aldryn_quote/templates *
+recursive-include aldryn_quote/locale *
+recursive-exclude * *.pyc
+recursive-exclude * .DS_Store
